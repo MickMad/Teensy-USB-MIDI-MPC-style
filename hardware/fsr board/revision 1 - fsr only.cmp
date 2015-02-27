@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 20/09/2014 11:55:33
+
+BeginCmp
+TimeStamp = /540CE19C;
+Reference = IC1;
+ValeurCmp = 4067D;
+IdModule  = 40xx-DIL24-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /54114FFE;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = SIL-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE396;
+Reference = R1;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3BE;
+Reference = R2;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3D6;
+Reference = R3;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3EE;
+Reference = R4;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3A5;
+Reference = R5;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3C4;
+Reference = R6;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3DC;
+Reference = R7;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3F4;
+Reference = R8;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3B2;
+Reference = R9;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3CA;
+Reference = R10;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3E2;
+Reference = R11;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3FA;
+Reference = R12;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3B8;
+Reference = R13;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3D0;
+Reference = R14;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE3E8;
+Reference = R15;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /540CE400;
+Reference = R16;
+ValeurCmp = FSR;
+IdModule  = FSR-15-mil;
+EndCmp
+
+BeginCmp
+TimeStamp = /54137728;
+Reference = R17;
+ValeurCmp = 4K7;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+BeginCmp
+TimeStamp = /540E3166;
+Reference = R18;
+ValeurCmp = 10K;
+IdModule  = R3-LARGE_PADS;
+EndCmp
+
+EndListe
